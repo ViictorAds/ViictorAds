@@ -49,7 +49,7 @@ e na aplicação prática dos conceitos de desenvolvimento de software.
 
 ---
 
-## 📊 GitHub
+## 💻 GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ViictorAds&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9)
 
